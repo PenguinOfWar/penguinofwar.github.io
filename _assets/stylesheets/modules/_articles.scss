@@ -29,7 +29,7 @@
         padding-top: 6px;
         font-size: 11px;
         font-weight: 600;
-        letter-spacing: .1em;
+        letter-spacing: 0.1em;
         color: $gray;
         text-decoration: none;
         text-transform: uppercase;
@@ -160,6 +160,8 @@
     display: block;
     margin-bottom: 30px;
   }
+
+  h1,
   h2,
   h3,
   h4 {
@@ -167,6 +169,9 @@
     margin-bottom: 10px;
     font-family: $sans-serif;
     color: $article-post-titles-color;
+  }
+  h1 {
+    margin-bottom: 35px;
   }
   blockquote p {
     margin-bottom: 0;
@@ -177,10 +182,19 @@
     margin-bottom: 0;
     vertical-align: middle;
   }
+  img {
+    border-radius: 5px;
+    margin-bottom: 35px;
+    width: 100%;
+  }
+
+  a {
+    color: #c90075;
+  }
 }
 
 .article-comments {
-  display: block;
+  display: none;
   padding-top: 20px;
   margin-top: 30px;
   border-top: 1px solid $base-border-color;
