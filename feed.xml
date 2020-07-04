@@ -1,20 +1,18 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
   <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ page.path | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    <title>Darryl Walker (@PenguinOfWar)</title>
+    <description></description>
+    <link>https://penguinofwar.github.io</link>
+    <atom:link href="https://penguinofwar.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.description | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <title>Data leaks and good password strategies</title>
+        <description>This is an archived post from 2019/01/18 covering the top level subject of data leaks and some recommendations for how to stay safe. This was converted from a presentation I gave to the wider marketing platform within Sony Professional Europe that served as an entry-level knowledge session on the subject.</description>
+        <pubDate>Fri, 03 Jul 2020 00:00:00 +0100</pubDate>
+        <link>https://penguinofwar.github.io/posts/data-leaks-password-strategies</link>
+        <guid isPermaLink="true">https://penguinofwar.github.io/posts/data-leaks-password-strategies</guid>
       </item>
-    {% endfor %}
+    
   </channel>
 </rss>
