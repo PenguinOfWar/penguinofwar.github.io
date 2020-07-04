@@ -34,11 +34,11 @@ There are many good options for generating cryptographically strong passwords an
 
 Many modern operating systems such as MacOS, iOS, and Android (chrome specific) ship with built-in support for generating and storing passwords for websites and applications. These passwords are securely shared across your devices and synced to a cloud storage location for backup.
 
-1.                          [iCloud Keychain (MacOS and iOS native functionality, works in browsers and apps)](https://support.apple.com/en-gb/HT204085)
+1.                             [iCloud Keychain (MacOS and iOS native functionality, works in browsers and apps)](https://support.apple.com/en-gb/HT204085)
 
-2.                          [Google password manager (Cross platform but Chrome specific and cloud synchronised)](https://support.google.com/chrome/answer/95606?co=GENIE.Platform%3DDesktop&hl=en)
+2.                             [Google password manager (Cross platform but Chrome specific and cloud synchronised)](https://support.google.com/chrome/answer/95606?co=GENIE.Platform%3DDesktop&hl=en)
 
-3.                          [Firefox (Cross platform but specific to the Firefox browser)](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import)
+3.                             [Firefox (Cross platform but specific to the Firefox browser)](https://support.mozilla.org/en-US/kb/password-manager-remember-delete-change-and-import)
 
 You’ll notice all of these are platform or browser specific (iCloud Keychain for example is locked to Apple products, which is a shame because in my opinion it’s by far the easiest to use), but thankfully there are other options.
 
@@ -54,21 +54,21 @@ Highlighted in blue above you’ll see an example of the strong passwords that a
 
 Where 1Password really shines is the integrations it has with browsers and operating systems.
 
-1.                          [System wide 1Password integration for Mac](https://support.1password.com/getting-started-mac/)
+1.                             [System wide 1Password integration for Mac](https://support.1password.com/getting-started-mac/)
 
-2.                          [System wide 1Password integration for Windows](https://support.1password.com/getting-started-windows/)
+2.                             [System wide 1Password integration for Windows](https://support.1password.com/getting-started-windows/)
 
-3.                          [Browser extensions for all the common browsers](https://1password.com/downloads/#browsers)
+3.                             [Browser extensions for all the common browsers](https://1password.com/downloads/#browsers)
 
-4.                          [iOS app (integrates with keychain for automatic password generation and retrieval)](https://1password.com/downloads/ios/)
+4.                             [iOS app (integrates with keychain for automatic password generation and retrieval)](https://1password.com/downloads/ios/)
 
-5.                          [Android app](https://1password.com/downloads/android/)
+5.                             [Android app](https://1password.com/downloads/android/)
 
 Pairing this sort of method with the “Correct Horse Battery Staple” method gives a very strong password security protocol while only requiring you to remember one single password:
 
-1.                          A single, strong, easy to remember password for your password vault
+1.                             A single, strong, easy to remember password for your password vault
 
-2.                          All other passwords generated and stored in your password vault
+2.                             All other passwords generated and stored in your password vault
 
 [Further reading: The Only Secure Password Is One You Can't Remember](https://www.troyhunt.com/only-secure-password-is-one-you-cant/)
 
@@ -86,9 +86,9 @@ In 2019, most sites that matter have some form of two-factor authentication and 
 
 Most two-factor authentication systems use:
 
-1.                          Text/phone calls with unique codes to trusted phone numbers
+1.                             Text/phone calls with unique codes to trusted phone numbers
 
-2.                          An app such as Google Authenticator or Authy to generate expiring tokens
+2.                             An app such as Google Authenticator or Authy to generate expiring tokens
 
 While there is some discussion about the security of text/phone calls (specifically around the risk of cloned numbers/SIM cards), ultimately it doesn’t strictly matter how you are doing it, just that you should be doing it.
 
@@ -108,9 +108,9 @@ Thankfully, some security conscious and very smart people have set up an excelle
 
 The number of accounts Have I Been Pwned tracks is now over 6 billion and growing every day. It has various tools for checking whether your account or specific passwords have been leaked:
 
-1.                          [General account checking](https://haveibeenpwned.com/)
+1.                             [General account checking](https://haveibeenpwned.com/)
 
-2.                          [Specific password checking](https://haveibeenpwned.com/Passwords)
+2.                             [Specific password checking](https://haveibeenpwned.com/Passwords)
 
 Take it one step further, and sign up to be notified when your email is found in a new leak by clicking **“Notify me”** in the header and registering your email address. It’s free and completely secure – I have registered and I’ve been notified each time my email has appeared in a leak or password dump.
 
@@ -122,11 +122,16 @@ More information about what makes that process secure is found at the above link
 
 Full details on the incident and more information on how to search the breached passwords are provided in the blog post [The 773 Million Record "Collection #1" Data Breach](https://www.troyhunt.com/the-773-million-record-collection-1-data-reach/).
 
-*For more information, please re-read this blog post.*
+_For more information, please re-read this blog post._
 
-*&copy; 1974 Scarfolk Council.*
+_&copy; 1974 Scarfolk Council._
 
-___
+---
+
 &nbsp;
 
-sd
+## Mistakes? Inaccuracies? Typos?
+
+Please let me know if you find anything factually incorrect in this blog post by [submitting an issue](https://github.com/PenguinOfWar/penguinofwar.github.io/issues).
+
+Alternatively, [amend the document directly](https://github.com/PenguinOfWar/penguinofwar.github.io/blob/site/_posts/2020-07-03-data-leaks-password-strategies.md) and create a [pull request](https://github.com/PenguinOfWar/penguinofwar.github.io/pulls) with the necessary changes.
