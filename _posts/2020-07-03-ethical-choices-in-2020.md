@@ -2,7 +2,7 @@
 title: Ethical Service Choices In 2020
 layout: post
 description: In 2020, it's easy to assume that just because something is free it has
-  no strings. Especially among the big players. Have a look if you are interested
+  no strings; especially among the big players. Have a look if you are interested
   in making more informed app choices in the future.
 thumb_image: posts/apps.jpg
 tags:
@@ -19,9 +19,10 @@ For the last few months, the constantly shifting nature of events around the wor
 1. There have been protests in Hong Kong
 2. Australia caught fire
 3. WW3 nearly started in the Persian Gulf
+4. Iran shot down a passenger jet, killing all 176 people on board
 4. A huge volcano erupted
 5. The president of the USA was impeached
-6. COVID-19 was delcared a pandemic
+6. COVID-19 was declared a public health emergency by the World Health Organisation
 7. The Brexit transition started
 
 And that was just January.
@@ -194,16 +195,16 @@ Trust but verify.
 # Alternatives
 If you are interested in finding out more about apps and services that are growing in popularity as privacy consciousness increases, I've left a few links below to stuff I've either used or comes highly recommended.
 
-- Firefox
-- DuckDuckGo
-- Signal
-- Telegram
-- Discord
-- Diaspora
-- ownCloud
-- Hey Mail
-- OpenStreetMap
-- DTube
+- [Firefox](https://www.mozilla.org/en-GB/firefox/new/?redirect_source=firefox-com)
+- [DuckDuckGo](https://duckduckgo.com/)
+- [Signal](https://signal.org/en/)
+- [Telegram](https://telegram.org/)
+- [Discord](https://discord.com/new)
+- [Diaspora](https://diasporafoundation.org/)
+- [ownCloud](https://owncloud.org/)
+- [Hey Mail](https://hey.com/)
+- [OpenStreetMap](https://www.openstreetmap.org/#map=9/49.7041/1.4886)
+- [DTube](https://d.tube/)
 
 # My Journey So Far
 To come full circle back to the start of this post; what have I been doing about it?
@@ -220,7 +221,7 @@ I've only just started my self-audit of app and company choices, but already the
 2. I am keeping Twitter for the time being
 3. I would love to step away from Facebook (the company) entirely, however they are the parent company for Oculus and I love my Oculus Quest too much...
 4. Google Search is so good I'm struggling to find a footing with DuckDuckGo
-5. I don't even know where to start with Amazon, and that's before we get to my reliance on AWS
+5. I don't even know where to start with Amazon, and that's before we get to my reliance on Amazon Web Services (AWS)
 
 Some of these are easy (I should just man up and delete my Instagram already but where else am I going to post pictures of my dog?), and some are hard.
 
