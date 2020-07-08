@@ -136,7 +136,7 @@ Behaviours presented below such as censorship or privacy concerns are intended t
 * Has been accused of anti-competitive practices, including price controlling and removing competitors products from their marketplaces
 * Has been consistently under fire for the last few years over its tretment of workers, poor working conditions, and opposition to trade unions
 * Has been consistently under fire for tax avoidance and leveraging advantages to effectively eliminate small business competition
-* Recently Jeff Bezos has been under fire recently for growing his stake in Amazon by 20% ($24bn) sunce the coronavirus outbreak, while simultaneously being accused of failing to protect the warehouse workforce from the virus
+* Recently Jeff Bezos has been under fire for growing his stake in Amazon by 20% ($24bn) since the coronavirus outbreak, while simultaneously being accused of failing to protect the warehouse workforce from the virus
 * Has contracts to license customer Ring doorbell footage to law enforcement and licensing face-recognition software for use in surveillance
 
 ## [Reddit](#reddit)
