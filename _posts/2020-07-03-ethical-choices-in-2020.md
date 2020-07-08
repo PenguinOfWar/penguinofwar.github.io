@@ -77,7 +77,7 @@ But Google is easy, what about others? Let's take a look at where exactly big co
 
 The following is a list that mixes both company names and service names (e.g. Google and YouTube). I will not list everything that these companies or apps do to make money (or we'll be here all day) - just the ones relevant to the topic at hand.
 
-Nothing in the below list is presented neutrally. Everything is cross-referenced and you can find the necessary information on respective wiki pages or by using your preferred search engine. 
+Everything in the below list is presented neutrally. Everything is cross-referenced and you can find the necessary information on respective wiki pages or by using your preferred search engine. 
 
 Behaviours presented below such as censorship or privacy concerns are intended to illustrate the nature and ideals behind the scenes, and to hopefully get you thinking about whether your ideals are aligned.
 ## [Google](#google)
